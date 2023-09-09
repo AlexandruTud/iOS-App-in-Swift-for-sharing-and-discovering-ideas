@@ -1,9 +1,5 @@
-<h1 align="center">Ideal</h1>
+![logo2](https://github.com/AlexandruTud/iOS-App-in-SwiftUI-Ideal/assets/95827917/ff81f7ea-6b12-4067-a150-d929685d984e | width=100)
 
-<div width="300px;">
-        !https://github.com/AlexandruTud/iOS-App-in-SwiftUI-Ideal/assets/95827917/98afdd7d-d5e8-4d52-ac5d-54fa17ab1756
-
-</div>
 
 
 
@@ -18,17 +14,12 @@
         <li>Store and retrieve data using Firebase Firestore database.</li>
         <li>Efficiently manage media assets with Firebase Storage.</li>
         <li>And much more!</li>
-    </ul>
+</ul>
 
-  <h2>Getting Started</h2>
-    <p>To get started with Ideal, follow these steps:</p>
-    <ol>
-        <li>Clone this repository to your local machine.</li>
-        <li>Open the project in Xcode.</li>
-        <li>Configure Firebase authentication, Firestore, and storage in your Firebase Console.</li>
-        <li>Add your Firebase configuration files to the project.</li>
-        <li>Build and run the app on your iOS device or simulator.</li>
-    </ol>
+<h2>Getting Started</h2>
+
+![ios app](https://github.com/AlexandruTud/iOS-App-in-SwiftUI-Ideal/assets/95827917/0bcacc25-9447-4bc8-854f-4c454c52283b)
+
 
   <h2>Dependencies</h2>
     <p>Ideal relies on the following technologies and frameworks:</p>
