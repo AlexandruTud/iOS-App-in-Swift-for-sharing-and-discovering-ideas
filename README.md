@@ -1,8 +1,9 @@
 <h1 align="center">Ideal</h1>
 
-<img src="https://raw.githubusercontent.com/AlexandruTud/iOS-App-in-SwiftUI-Ideal/main/assets/95827917/dc8f3a4b-dc24-4a4d-b968-12deb3a47bf3.png" width="300px;">
+<div width="300px;">
+        ![logo2](https://github.com/AlexandruTud/iOS-App-in-SwiftUI-Ideal/assets/95827917/98afdd7d-d5e8-4d52-ac5d-54fa17ab1756)
 
-<img src="https://raw.githubusercontent.com/AlexandruTud/iOS-App-in-SwiftUI-Ideal/main/assets/95827917/fa996f87-85c7-41e7-a05e-6f455e4b6e20.png" width="300px;">
+</div>
 
 
 
