@@ -1,4 +1,4 @@
-![logo2](https://github.com/AlexandruTud/iOS-App-in-SwiftUI-Ideal/assets/95827917/ff81f7ea-6b12-4067-a150-d929685d984e | width=100)
+![logo2](https://github.com/AlexandruTud/iOS-App-in-SwiftUI-Ideal/assets/95827917/ff81f7ea-6b12-4067-a150-d929685d984e)
 
 
 
@@ -18,7 +18,7 @@
 
 <h2>Getting Started</h2>
 
-![ios app](https://github.com/AlexandruTud/iOS-App-in-SwiftUI-Ideal/assets/95827917/0bcacc25-9447-4bc8-854f-4c454c52283b)
+<img src="https://github.com/AlexandruTud/iOS-App-in-SwiftUI-Ideal/assets/95827917/0bcacc25-9447-4bc8-854f-4c454c52283b" width="300px">
 
 
   <h2>Dependencies</h2>
