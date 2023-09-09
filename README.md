@@ -1,8 +1,9 @@
 <h1 align="center">Ideal</h1>
 
 <p align="center">
-        <img src="![logo2](https://github.com/AlexandruTud/iOS-App-in-SwiftUI-Ideal/assets/95827917/61daf0a4-2ff3-4e31-a330-8d5a48b367a9)" width="200">
+    <img src="https://github.com/AlexandruTud/iOS-App-in-SwiftUI-Ideal/raw/main/assets/95827917/61daf0a4-2ff3-4e31-a330-8d5a48b367a9.png" alt="Ideal App Logo" width="200">
 </p>
+
 
 <h2>About the App</h2>
 <p>Ideal is an innovative iOS app that enables users to share and discover ideas based on various categories. Whether you're seeking inspiration for your next project or looking to share your creative insights, Ideal has you covered.</p>
