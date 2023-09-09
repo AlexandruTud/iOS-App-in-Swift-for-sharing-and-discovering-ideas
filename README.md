@@ -1,7 +1,7 @@
 <h1 align="center">Ideal</h1>
 
 <p align="center">
-    <img src="https://github.com/AlexandruTud/iOS-App-in-SwiftUI-Ideal/raw/main/assets/95827917/61daf0a4-2ff3-4e31-a330-8d5a48b367a9.png" alt="Ideal App Logo" width="200">
+    ![logo2](https://github.com/AlexandruTud/iOS-App-in-SwiftUI-Ideal/assets/95827917/f10e49f1-ca9f-4541-af3e-93b13e9f6d63)
 </p>
 
 
